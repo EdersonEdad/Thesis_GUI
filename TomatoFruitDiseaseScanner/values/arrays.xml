@@ -1,0 +1,5 @@
+<resources>
+    <string-array name="com_google_android_gms_fonts_certs">
+        <item></item>
+    </string-array>
+</resources>
